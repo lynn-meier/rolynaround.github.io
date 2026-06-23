@@ -17,6 +17,7 @@ kramdown:
   input: GFM
 
 # Social links (optioneel)
-- title: Instagram
+social_links:
+  - title: Instagram
     icon: fa-instagram
-    url: https://instagram.com/rolynaround
+    url: https://instagram.com/YOUR_USERNAME
