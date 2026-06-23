@@ -2,8 +2,8 @@ title: "rolynnnn"
 description: "everything cycling blog"
 theme: minima
 
-url: "https://lynn-meier.github.io"
-baseurl: "/rolynaround.github.io"
+url: "https://rolynaround.github.io"
+baseurl: ""
 
 # Navigatie-menu
 header_pages:
